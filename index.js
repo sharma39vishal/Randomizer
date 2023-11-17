@@ -37,7 +37,7 @@ io.on('connection', (socket) => {
     // console.log(data,userscnt)
 
     if (userscnt[data.room] === undefined) {
-      userscnt[data.room] = 1;
+      userscnt[data.room] = 0;
       // console.log(userscnt,"reset")
     }
     if (data.status === 'online') {
