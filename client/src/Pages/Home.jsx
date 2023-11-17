@@ -66,7 +66,7 @@ export default function Home() {
       className="w-full object-cover h-72 lg:w-full md:h-screen bg-cover bg-center"
       style={{
         backgroundImage:
-          "url(/public/homepage.jpeg)"
+          "url(/homepage.jpeg)"
       }}
     />
   </div>
