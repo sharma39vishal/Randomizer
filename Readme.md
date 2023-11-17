@@ -13,19 +13,19 @@ Randomizer is a privacy-focused web application that allows users to send messag
 
 ### Homepage
 
-![Homepage](Images/homepage.png)
+![Homepage](images/homepage.png)
 
 <!-- Describe the homepage and its key features. -->
 
 ### Chat Page
 
-![Chat Page](Images/chatpage.png)
+![Chat Page](images/chatpage.png)
 
 <!-- Include a brief description of the chat page, highlighting its functionalities. -->
 
 ### Public APIs
 
-![APIs](Images/APIs.png)
+![APIs](images/APIs.png)
 
 <!-- Provide details about the APIs or any relevant architecture diagram. -->
 
