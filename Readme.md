@@ -7,7 +7,8 @@ Randomizer is a privacy-focused web application that allows users to send messag
 ## Tech Stack
 
 - **Frontend:** React.js (Vite)
-- **Backend:** Node.js
+- **Backend:** Node.js, Express.js
+- **Other Technologies:** socket.io, JsonWebToken, NodeMailer
 
 ## Preview
 
